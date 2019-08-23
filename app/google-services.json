@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654735121302",
+    "firebase_url": "https://fireworkschat-6ba0b.firebaseio.com",
+    "project_id": "fireworkschat-6ba0b",
+    "storage_bucket": "fireworkschat-6ba0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654735121302:android:c80050ceff557d35",
+        "android_client_info": {
+          "package_name": "com.fireworks.fireworks_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654735121302-2vbf0q3aaakcjhlpav9pn3mjbunn4o95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fireworks.fireworks_chat",
+            "certificate_hash": "d5ddd657f35f1a8bfe406bd7acb75c7627c53276"
+          }
+        },
+        {
+          "client_id": "654735121302-fl9g760hqcshcjndc6fjj7n4ff5gmb4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOcGtRWYzWzggKv4dwXqolEa67aKt4DEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654735121302-fl9g760hqcshcjndc6fjj7n4ff5gmb4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
